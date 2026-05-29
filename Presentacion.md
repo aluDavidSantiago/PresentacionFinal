@@ -62,63 +62,94 @@ Todos los repositorios contienen la documentación, tareas y soluciones desarrol
 
 <h2 id="proyectos">4. Proyectos (resumen + evidencias)</h2>
 
-<h3>Proyecto 01</h3>
+<h3>Proyecto 01 – Arrenquem (Fundamentos IT)</h3>
 <div align="center">
-<img src="https://drive.google.com/uc?export=view&id=1L6R5HpwMdxZyUATrvuXdjJH6pzkq8U_k" width="800"/>
-</div>
-<p>Inicio del curso. Base en GitHub y Markdown.</p>
-
-<h3>Proyecto 02</h3>
-<div align="center">
-<img src="https://drive.google.com/uc?export=view&id=1CTGKSZysA7r-8iCVGYA6RXibNUPBpNbT" width="800"/>
-</div>
-<p>Uso de Kanban. Problema: mala estimación de tareas.</p>
-
-<h3>Proyecto 03 (clave)</h3>
-<div align="center">
-<img src="https://drive.google.com/uc?export=view&id=1BOinaawTCJH9mqhxzMEk9KxzDjUPWgC0" width="800"/>
+<img src="https://drive.google.com/uc?export=view&id=1O8AeUEnUpqeLCHMZCbZojhwPWzAwBbhf" width="600"/>
 </div>
 <p>
-Creación de web con WordPress.  
-Proyecto más complejo por su curva de aprendizaje y uso de plugins.
+📌 <b>Descripción:</b> Proyecto inicial centrado en adquirir base en Linux, redes y seguridad, e introducir la metodología Kanban. <br>
+⚠️ <b>Problema:</b> Adaptación inicial al entorno técnico. <br>
+✅ <b>Solución:</b> Aprendizaje progresivo y práctica constante. <br>
+🎯 <b>Resultado:</b> Base técnica sólida para afrontar proyectos más avanzados.
 </p>
 
-<h3>Proyecto 04</h3>
+<h3>Proyecto 02 – Consultoría EverPia</h3>
 <div align="center">
-<img src="https://drive.google.com/uc?export=view&id=1LEgSqUmvlx3NAYa-zBuRGSHo-YVKYDJg" width="750"/>
+<img src="https://drive.google.com/uc?export=view&id=10ucFyPfBw8zHWmromzw83aJiJck-laf0" width="800"/>
 </div>
-<p>Trabajo más autónomo y organizado.</p>
+<p>
+📌 <b>Descripción:</b> Simulación de consultoría IT trabajando con GitHub, Kanban y resolución de problemas técnicos reales. <br>
+⚠️ <b>Problema:</b> Dificultad en estimación de tiempos y uso inicial de GitHub, Markdown y Kanban. <br>
+✅ <b>Solución:</b> Ajuste de planificación y aprendizaje práctico con VS Code y control de versiones. <br>
+🎯 <b>Resultado:</b> Mejora en organización, productividad y control del flujo de trabajo.
+</p>
 
-<h3>Proyecto 05</h3>
+<h3>Proyecto 03 – Sobrevivir en una empresa IT</h3>
+<div align="center">
+<img src="https://drive.google.com/uc?export=view&id=1ywtJal7vpP9VQcI6c-iSss-ccS5Nf8IF" width="800"/>
+</div>
+<p>
+📌 <b>Descripción:</b> Simulación de entorno IT real con gestión de servicios, incidencias y desarrollo web. <br>
+⚠️ <b>Problema:</b> Dificultad al usar WordPress y replicar una web real por primera vez. <br>
+✅ <b>Solución:</b> Uso de plugins, investigación autónoma y adaptación del diseño. <br>
+🎯 <b>Resultado:</b> Capacidad de adaptación a herramientas complejas y resolución práctica de problemas.
+</p>
+
+<h3>Proyecto 04 – Consultora EverPia</h3>
+<div align="center">
+<img src="https://drive.google.com/uc?export=view&id=1LEgSqUmvlx3NAYa-ZBuRGSHo-YVKYDJg" width="750"/>
+</div>
+<p>
+📌 <b>Descripción:</b> Proyecto en equipo gestionando servicios IT: backups, servidores, acceso remoto y soporte técnico y proyecto en el cual uno de sus entregables fue el Figma. <br>
+⚠️ <b>Problema:</b> Coordinación del equipo y correcta implementación técnica sin errores. <br>
+✅ <b>Solución:</b> División clara de tareas y validación continua mediante GitHub. <br>
+🎯 <b>Resultado:</b> Trabajo colaborativo más eficiente y despliegue estable de servicios.
+</p>
+
+<h3>Proyecto 05 – La Incubadora (Startup IT)</h3>
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1er1W5o8PAt84RIenZc5KmoHp_R8DnobL" width="800"/>
 </div>
-<p>Enfoque empresarial y toma de decisiones.</p>
+<p>
+📌 <b>Descripción:</b> Creación de una startup IT desde cero: modelo de negocio, cliente y solución técnica completa. <br>
+⚠️ <b>Problema:</b> Dificultad en definir una idea realista y viable. <br>
+✅ <b>Solución:</b> Validación del problema y estructuración del modelo de negocio. <br>
+🎯 <b>Resultado:</b> Proyecto completo listo para presentación tipo inversor.
+</p>
 
-<h3>Proyecto 06 – Nexus</h3>
+<h3>Proyecto 06 – Nexus (E-learning Platform)</h3>
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1yjW5hb5F-V1B3fO7LJmRsqgInRVKn5ju" width="800"/>
 </div>
+<p>
+📌 <b>Descripción:</b> Diseño de plataforma E-learning con comparación de tecnologías. <br>
+⚙️ <b>Tecnología elegida:</b> Nginx + Moodle <br>
+⚠️ <b>Problema:</b> Selección de la mejor solución entre múltiples opciones. <br>
+✅ <b>Solución:</b> Análisis comparativo basado en rendimiento, seguridad y coste. <br>
+🎯 <b>Resultado:</b> Infraestructura optimizada y justificada profesionalmente.
+</p>
 
-<ul>
-<li>Nginx → mejor rendimiento</li>
-<li>Moodle → estándar educativo</li>
-</ul>
-
-<p>Primer proyecto con decisiones técnicas reales.</p>
-
-<h3>Proyecto 07 – FoodLogistic</h3>
+<h3>Proyecto 07 – FoodLogistic S.A.</h3>
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1lU1ARTgZCrCXxffh6QSzpS6YasIy_wlM" width="800"/>
 </div>
-<p>Diseño completo de infraestructura IT para empresa.</p>
+<p>
+📌 <b>Descripción:</b> Modernización de infraestructura IT (servidores, cloud, seguridad y web). <br>
+⚠️ <b>Problema:</b> Infraestructura obsoleta sin escalabilidad ni seguridad suficiente. <br>
+✅ <b>Solución:</b> Migración a cloud y mejora de la arquitectura de seguridad. <br>
+🎯 <b>Resultado:</b> Sistema moderno, seguro y escalable.
+</p>
 
-<h3>Proyecto 08 – Digitalización</h3>
+<h3>Proyecto 08 – Connecta’t al Futur (Digitalización)</h3>
 <div align="center">
-<img src="https://drive.google.com/uc?export=view&id=103W4Es_C-iksOhckVI7qTKCzs_odcKkA" width="800"/>
+<img src="https://drive.google.com/uc?export=view&id=103W4Es_C-iksOhckVI7qTKCzs_odcKkA" width="1000"/>
 </div>
-<p>Proyecto final de consultoría y digitalización real.</p>
-
+<p>
+📌 <b>Descripción:</b> Proyecto final de digitalización completa de una empresa. <br>
+⚠️ <b>Problema:</b> Procesos manuales ineficientes y poca digitalización. <br>
+✅ <b>Solución:</b> Implementación de herramientas digitales y automatización. <br>
+🎯 <b>Resultado:</b> Mejora significativa en eficiencia y productividad.
+</p>
 <hr>
 
 <h2 id="problemas">5. Problemas y soluciones</h2>
