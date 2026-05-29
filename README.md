@@ -233,8 +233,4 @@ He evolucionado de seguir instrucciones a diseñar soluciones completas.
 
 <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="300"/>
 
-<p>
-Documento preparado para exposición ante tribunal técnico.
-</p>
 
-</div>
