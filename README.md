@@ -97,7 +97,10 @@ Todos los repositorios contienen la documentación, tareas y soluciones desarrol
 
 <h3>Proyecto 04 – Consultora EverPia</h3>
 <div align="center">
-<img src="https://drive.google.com/uc?export=view&id=1LEgSqUmvlx3NAYa-ZBuRGSHo-YVKYDJg" width="750"/>
+  <img 
+    src="https://drive.google.com/thumbnail?id=1LEgSqUmvlx3NAYa-zBuRGSHo-YVKYDJg&sz=w2000"
+    width="750"
+  />
 </div>
 <p>
 📌 <b>Descripción:</b> Proyecto en equipo gestionando servicios IT: backups, servidores, acceso remoto y soporte técnico y proyecto en el cual uno de sus entregables fue el Figma. <br>
